@@ -8,4 +8,4 @@ Updates made on master on Github before rebase.
 
 This file is just a readme file.
 
-
+This is more github/git examples together.
